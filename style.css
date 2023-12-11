@@ -1,0 +1,57 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: hsl(0, 100%, 90%);
+}
+.page {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+ .ybutton {
+  width: 100px;
+  height:50px;
+  color: hotpink; 
+ }
+ 
+ .title {
+  width: 500px;
+  height: 100px;
+  color: hotpink; 
+ }
+ .paragraph1 {
+  color: hotpink;
+ }
+.hredvelvet {
+  height: 50px;
+  color: hotpink;
+}
+.chocolate {
+  color: purple;
+}
+.paragraph2 {
+  color:hotpink;
+}
+.vanilla {
+  color: hotpink;
+}
+.paragraph3 {
+  color: hotpink;
+}
+.website {
+  color: hotpink;
+  width: 200px;
+  display: flex;
+}
+.rvimage {
+  width: 200px;
+  height: 200px;
+}
+.cimage {
+  width: 200px;
+  height: 200px;
+}
+.vimage {
+  width: 200px;
+  height: 200px;
+}
